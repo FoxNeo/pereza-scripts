@@ -3,7 +3,7 @@
 First we create a folder and in this folder we will save all scripts with the extension **.bat**
 
 ```batch
-mkdir scritps
+mkdir scripts
 ```
 Now we are going to set an environment variable with scripts folder, if you don't know how to create it here in [example](https://www.computerhope.com/issues/ch000549.htm)
 
