@@ -1,0 +1,3 @@
+@echo off
+echo Opening scripts directory...
+start "." "C:\scripts"
